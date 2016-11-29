@@ -1,0 +1,14 @@
+{
+    "name": "agilesdesign/exceptum",
+    "description": "Custom Exception Handling for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Justin Seliga",
+            "email": "jseliga@agilesdesign.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
